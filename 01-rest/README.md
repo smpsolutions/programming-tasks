@@ -1,6 +1,6 @@
 # 01 - REST Api
 
-Using the skeleton in `01-rest` perform the following changes and additions. Feel free to change and optimize the structure of the project to your liking.
+Using the boilerplate in `01-rest` perform the following changes and additions. Feel free to change and optimize the structure of the project to your liking.
 
 To run the server you are building, use npm:
 
@@ -22,7 +22,7 @@ Based on JSON-RPC 2.0, add an endpoint `/rpc` that will take in a json-rpc messa
 
 ## 2. Unit testing with JEST
 
-The skeleton already includes a test for the initial root and api endpoints. Add the necessary code to test all the endpoints your express server is serving. And try to achieve a reasonable high code coverage (>90%).
+The boilerplate already includes a test for the initial root and api endpoints. Add the necessary code to test all the endpoints your express server is serving. And try to achieve a reasonable high code coverage (>90%).
 
 Run the tests using
 
@@ -30,6 +30,10 @@ Run the tests using
 npm test
 npm run coverage
 ```
+
+## 3. JSON-RPC division
+
+Similar to step 1. implement a division method and add the necessary unit testing. Make sure to test for edge cases as well.
 
 
 **References:**

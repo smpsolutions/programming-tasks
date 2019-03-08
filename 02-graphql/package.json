@@ -1,0 +1,24 @@
+{
+  "name": "02-graphql",
+  "version": "1.0.0",
+  "description": "Sample GraphQL Server with Apollo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smpsolutions/programming-tasks.git"
+  },
+  "author": "SMP Solutions GmbH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smpsolutions/programming-tasks/issues"
+  },
+  "homepage": "https://github.com/smpsolutions/programming-tasks#readme",
+  "dependencies": {
+    "apollo-server": "^2.4.8",
+    "graphql": "^14.1.1"
+  }
+}
