@@ -10,7 +10,7 @@ To run your server:
 npm start
 ```
 
-Then open you browser and use the GraphQL 
+Then open you browser and use the GraphQL playground on http://localhost:4000
 
 ## 1. Implement a substract query
 
