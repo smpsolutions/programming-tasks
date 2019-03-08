@@ -1,2 +1,6 @@
 # programming-tasks
-Coding Exercises, Tasks and Challenges
+
+This repository contains a few Coding Exercises, Tasks and Challenges
+
+
+* [JSON RPC REST API](./01-rest/README.md)
